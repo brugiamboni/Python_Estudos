@@ -1,3 +1,5 @@
+# Script para ver antecessor e sucessor de um número.
+
 s = '='*8
 
 print(s, 'DESAFIO 6', s)
