@@ -1,3 +1,4 @@
+# Script criado para fazer a soma de dois números e verificar seus tipos.
 print('==== DESAFIO 04 ====')
 
 print('CALCULADORA DE SOMAS COM TIPO')
