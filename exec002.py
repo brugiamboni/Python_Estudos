@@ -1,3 +1,5 @@
+# Script criado para fazer a soma de dois números.
+
 print('====== DESAFIO 02 ======')
 
 print('CALCULADORA DE SOMAS')
